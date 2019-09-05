@@ -30,3 +30,4 @@ yarn-debug.log*
 yarn-error.log*
 # ignorar
 /.vscode
+frontend/javascript/react/up-comming/.gitignore
