@@ -4,7 +4,7 @@ export default function Index(){
     return(
         <footer>
             <div className="Footer">
-                Compony Name
+            Copyright © 2019 All Rights Reserved by Upcoming.
             </div>
         </footer>
     );
